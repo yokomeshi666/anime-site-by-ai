@@ -1,18 +1,1 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<html> <head> <title>anime website</title> </head> <body> <header> <h1>anime website</h1> </header> <main> <section> <h2>latest releases</h2> <!-- code to dynamically add anime posters and details here --> </section> <section> <h2>popular series</h2> <!-- code to dynamically add popular series here --> </section> </main> <footer> <p>copyright anime website &copy; 2020</p> </footer> </body> </html> 
